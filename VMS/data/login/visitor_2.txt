@@ -1,0 +1,5 @@
+Id = 2
+Name = m
+Phone number = 120
+visiting to = nurnobi
+Purpose of visiting = contact

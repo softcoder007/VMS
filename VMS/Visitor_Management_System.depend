@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+80 <<<<<<< HEAD
+
+1571493360 source:d:\projects\visitor_management_system\main.c
+
+1571579434 8a0da81bc75ae10563836fadd190b6230ae5b
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<dirent.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<dirent.h>
+	<stdlib.h>
+
+1571323573 source:d:\projects\visitor_management_system\untitled1.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1571323573 D
+
+1572895933 source:d:\projects\visitor_management_system_c\main.c
+
+1571579434 source:c:\users\tiger-park\desktop\visitor_management_system\main.c
+
+1572900250 source:g:\bubt\3rd semester\project\visitor_management_system_c\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<dirent.h>
+	<stdlib.h>
+
