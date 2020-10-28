@@ -89,7 +89,7 @@ void Admin(){
    system("cls");
    const char password[15] = "admin123";
    char pass[20];
-   printf("\n\t Please enter your password\n");
+   printf("\n\t Please enter your password:");
    scanf(" %[^\n]s", pass);
    if(strcmp(pass, password) == 0){
         system("cls");
