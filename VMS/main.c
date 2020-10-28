@@ -165,7 +165,7 @@ void ShowVisitor(char dfolder[200]){
                while (fgets(str, 1000, fptr) != NULL){
                 printf("%s", str);
                }
-               printf("\nPress Any key to Back\n");
+               printf("\nPress Enter to Back\n");
             }
             fclose(fptr);
         }
