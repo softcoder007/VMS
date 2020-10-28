@@ -221,7 +221,7 @@ void main()
 
         //printf("\n\t\t\t ***Please note that admin pass is 'admin123'***\n");
 
-        printf("\n\n\t Please chose a option\n");
+        printf("\n\n\tPlease Select a option(* Must be Number\n");
         scanf("%d", &options);
         if(options==1){
             Enter(id);
