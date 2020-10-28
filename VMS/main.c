@@ -89,7 +89,7 @@ void Admin(){
    system("cls");
    const char password[15] = "admin123";
    char pass[20];
-   printf("\n\t Please enter your password:");
+   printf("\n\t Enter your Admin password:");
    scanf(" %[^\n]s", pass);
    if(strcmp(pass, password) == 0){
         system("cls");
@@ -121,7 +121,7 @@ void AdminOptions(){
        printf("\n\t1. logged-in visitor(%d)",CountFiles("data/login"));
        printf("\n\t2. logged-out visitor(%d)",CountFiles("data/logout"));
        printf("\n\t3. Admin log-out");
-       printf("\n\n\n");
+       printf("\n\n\n Please Select a option(* Must be Number):");
        scanf("%d", &options);
        if(options==1){
             ShowVisitor("data/login/");
